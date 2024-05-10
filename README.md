@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my world 🗺️
 
-<!--
-**MiguelDama/MiguelDama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer me chamo Miguel Damacena
 
-Here are some ideas to get you started:
+-Estou aprendendo a macher com a linguagem de programção
+sou iniciante nesse processo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Sou estudante do [Alura](https://www.alura.com.br)
+
+-Aqui é onde irei compartilhar meus projetos escolares😄😄
+
+Caso queria entrar e contato comigo
+Miguel_Silva1313@outlook.com📧
+
+![](https://media.tenor.com/U6owV3SiWR4AAAAM/derya-derya-cebecio%C4%9Flu.gif)
+
